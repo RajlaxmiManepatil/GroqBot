@@ -1,0 +1,21 @@
+PS C:\Users\Dell\OneDrive\Desktop\groq_chatBot> & "C:/Program Files/Python311/python.exe" c:/Users/Dell/OneDrive/Desktop/groq_chatBot/groq_chatbot.py
+Enter the number of queries you want to ask: 1
+Enter query : what is groq?
+Response : Groq is a technology company that specializes in developing artificial intelligence (AI) and machine learning (ML) hardware and software solutions. The company was founded in 2016 by Jonathan Ross, who previously worked at Google, and is headquartered in Mountain View, California.
+
+Groq's primary focus is on creating high-performance, low-latency AI computing platforms that can accelerate the development and deployment of AI models. Their solutions are designed to support a wide range of AI workloads, including natural language processing, computer vision, and recommender systems.
+
+Some of the key features of Groq's technology include:
+
+1. **Tensor Streaming Processor (TSP)**: Groq's proprietary TSP architecture is designed to efficiently process large amounts of data and perform complex AI computations. The TSP is optimized for low-latency and high-throughput performance.
+2. **AI-optimized hardware**: Groq's hardware platforms are specifically designed to accelerate AI workloads, with features such as high-bandwidth memory, low-latency interconnects, and optimized compute engines.
+3. **Software frameworks**: Groq provides software frameworks and tools that enable developers to easily integrate their AI models with Groq's hardware platforms.
+
+Groq's solutions have applications in various industries, including:
+
+1. **Data centers**: Groq's technology can be used to accelerate AI workloads in data centers, reducing latency and increasing throughput.
+2. **Edge computing**: Groq's solutions can be used in edge computing applications, such as autonomous vehicles, smart cities, and IoT devices.
+3. **Research and development**: Groq's technology can be used by researchers and developers to accelerate the development and deployment of AI models.
+
+Overall, Groq is a company that is pushing the boundaries of AI computing with its innovative hardware and software solutions.
+PS C:\Users\Dell\OneDrive\Desktop\groq_chatBot> 
